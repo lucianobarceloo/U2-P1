@@ -1,0 +1,3 @@
+# Created at 2026-09-24T00:56:38.514
+java.lang.UnsupportedClassVersionError: mx/itson/devops/descuento/DescuentoFronteraTest has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+
